@@ -1,0 +1,139 @@
+
+ .Blogs1 {
+  margin: 0px;
+  position: relative;
+  width: 50%;
+  border: solid;
+  border-color: rgb(14, 8, 8);
+  top: 100px;
+  left: 300px;
+  width: 700px;
+  overflow-wrap: break-word;
+  background-color: white;
+  height: auto; /* or remove this line */
+  display: flex; /* Add this line */
+  flex-direction: column; /* Add this line to stack items vertically */
+  align-items: center; /* Add this line to center items horizontally */
+}
+
+
+.form-submit-btn{
+    position: relative;
+    top: -20px;
+    left: 170px;
+}
+
+.Blogs1 h1 {
+  text-align: center;
+  margin-top: 10px; /* Adjust the top margin as needed */
+  font-size: 20px;
+  position: absolute;
+  left: 100px;
+  top: 30px;
+}
+
+.Blogs1 h2{
+    position: relative;
+    top: 100px;
+    font-size: 20px;
+    
+}   
+
+.Blogs1 h4{
+    position: absolute;
+    top: -20px;
+    left: 0px;
+}
+.Blogs1 h5{
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+
+
+
+.Btn {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 80px;
+    height: 40px;
+    border: none;
+    padding: 0px 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px rgb(255, 255, 255);
+    transition-duration: .3s;
+     
+  }
+  
+  .svg {
+    width: 13px;
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+    fill: white;
+    transition-duration: .3s;
+  }
+  
+  .Btn:hover {
+    color: rgb(0, 47, 255);
+  }
+  
+  .Btn:hover svg {
+    right: 43%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    transition-duration: .3s;
+  }
+  
+  .Btn:active {
+    transform: translate(3px , 3px);
+    transition-duration: .3s;
+    box-shadow: 2px 2px 0px rgb(0, 0, 0);
+  }
+  .Blog {
+    position: absolute;
+    left: 150px;
+    height: auto; /* or remove this line */
+}
+  .Blog textarea{
+    height: 500px;
+    width: 500px;
+    border-bottom: solid;
+    border-bottom-color: black;
+    outline: none;
+    border: solid;
+    background-color: rgb(252, 250, 250);
+    position: relative;
+    top: 50px;
+    left: 150px;
+  }
+  .Blog .title{
+    height: 30px;
+  }
+
+
+  .edit{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 550px;
+    left: 550px;
+    color: black;
+
+  }
+
+  .main .Blogs1 .Btn {
+    position: absolute;
+    top: 0px;
+    left: 20àpx;
+  }
+  .submit{
+    position: absolute;
+    top: 20px;
+  }

@@ -1,0 +1,63 @@
+.main{
+    height: 650px;
+     position: absolute;
+     right: 50px;
+     width: 100%px;
+   
+}
+body{
+    margin-top: 0px;
+    background-color: transparent ;
+
+}
+
+
+button {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 17px;
+    padding: 0.8em 1.3em 0.8em 0.9em;
+    color: rgb(255, 255, 255);
+    background: #ffffff;
+    background: white;
+    border: none;
+    letter-spacing: 0.05em;
+    border-radius: 16px;
+    position: relative;
+    left: 520px;
+    top: 300px;
+  }
+  
+  button svg {
+    margin-right: 3px;
+    transform: rotate(30deg);
+    transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1);
+  }
+  
+  button span {
+    transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1);
+  }
+  
+  button:hover svg {
+    transform: translateX(5px) rotate(90deg);
+  }
+  
+  button:hover span {
+    transform: translateX(7px);
+  }
+  .main button{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 580px ;
+    top: 250px;
+    color: black;
+  }
+  .main{
+    background-image: url('https://i.pinimg.com/originals/94/18/f7/9418f77ff0bfcf927af8a7efb6af6dd7.jpg');
+    width: 100%;
+    position: absolute;
+    left: 30px  ;
+
+  }

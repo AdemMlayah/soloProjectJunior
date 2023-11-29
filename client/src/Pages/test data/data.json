@@ -1,0 +1,63 @@
+{"events": [
+    {
+      "event": "Big Bang",
+      "description": "The universe begins with an explosive expansion from an extremely hot and dense state. Space, time, and matter emerge in an unimaginably energetic event.",
+      "date": "13.8 billion years ago",
+      "images":["https://www.wallpapertip.com/wmimgs/4-45533_universe-wallpaper-galaxy-planet-universe-wallpaper-in-hd.jpg",
+                "https://images5.alphacoders.com/678/thumb-1920-678962.jpg",
+                "https://images7.alphacoders.com/772/772690.jpg",
+                 "https://images7.alphacoders.com/772/772690.jpg" 
+    ]
+    },
+   {
+      "event": "Origin of Life on Earth",
+      "description": "Life emerges on Earth, likely in the form of simple single-celled organisms, marking the beginning of biological evolution.",
+      "date": "3.5 billion years ago",
+      "images":[ "https://media.licdn.com/dms/image/D5612AQHrVUSeY2fdGQ/article-cover_image-shrink_720_1280/0/1693374355990?e=2147483647&v=beta&t=llvjv5x3nAQv554HBJtcj0gYbryZnbh5feguLAXrG-M"
+    , "https://www.science.org/do/10.1126/science.aaf5719/abs/rna.jpg",
+    "https://science1738.weebly.com/uploads/6/1/6/4/61644415/224613436.jpg",
+    "https://th-thumbnailer.cdn-si-edu.com/GKU4DVIvt1R263uEb-15iV_CK88=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/e7/54/e754a343-b25e-4e55-ad8a-69f544e72bd6/42-46202802.jpg"
+    ] 
+      
+    },
+    {
+      "event": "Rise of Dinosaurs",
+      "description": "Dinosaurs dominate the Earth during the Mesozoic Era, showcasing a wide array of species and ecological adaptations.",
+      "date": "230 million years ago",
+      "images":["https://c4.wallpaperflare.com/wallpaper/622/396/13/dinosaurs-a-lot-fel-x-the-land-of-dinosaurs-wallpaper-preview.jpg",
+       " https://p4.wallpaperbetter.com/wallpaper/37/651/786/5bd3a20045dfa-wallpaper-preview.jpg",
+       "https://images4.alphacoders.com/150/150198.jpg",
+       "https://images3.alphacoders.com/996/996009.jpg"
+    ]
+    },
+    {
+      "event": "Human Evolution",
+      "description": "Hominids, including early human ancestors, evolve over millions of years, eventually leading to the emergence of Homo sapiens.",
+      "date": "2 million years ago",
+      "images":["https://cdna.artstation.com/p/assets/images/images/029/453/846/large/beatriz-grigio-bornia-ilustracao-serie-evolucao-humana-1.jpg?1597608008",
+      "https://www.google.com/search?q=Human+Evolution+images+hd+art&tbm=isch&ved=2ahUKEwj3uvWh9OeCAxVdiv0HHc6tDvQQ2-cCegQIABAA&oq=Human+Evolution+images+hd+art&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQCBAeUJ0CWPwHYLQJaABwAHgAgAFjiAHXA5IBATWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=139mZbfzO92U9u8Pztu6oA8&bih=650&biw=1325&client=opera-gx&hs=P4W#imgrc=H8paelMORqpRFM&imgdii=_OJews0dabUHiM",
+      "https://www.sapiens.org/app/uploads/2016/04/01_3.6.4-2_illustration_color_KC_humans_builiding_shelter_l_1.jpg",
+      "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/7/7/1278521540009/First-humans-in-Britain-006.jpg?width=620&quality=85&auto=format&fit=max&s=906080e473b5a5963027f7c930ac22f6"
+    ]
+    },
+
+    {
+      "event": "Rise of Ancient Civilizations",
+      "description": "Civilizations like Mesopotamia, Egypt, the Indus Valley, and China emerge, contributing to the growth of agriculture, trade, and cultural achievements.",
+      "date": "3500 BCE - 500 BCE",
+      "images":["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clarku.edu%2Facademics%2Fundergraduate%2Fprograms%2Fmajors-minors%2Fmajor-in-ancient-civilization%2F&psig=AOvVaw0-XO5Xvy7AhIwJtpM72tp1&ust=1701302861256000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiVpZj154IDFQAAAAAdAAAAABAQ",
+    "https://o.quizlet.com/1IabyqZKrPd5i6eVhjaMQg_b.jpg",
+  "https://cdn.sci.news/images/enlarge5/image_6018_1e-Ancient-Lead-Pollution.jpg",
+"https://nevaimgs.neveazzurra.org/1664510998394.jpg"]
+    },
+    {
+      "event": "Golden Age of Islamic Civilization",
+      "description": "Islamic scholars make significant advancements in science, mathematics, and philosophy, preserving and building upon ancient knowledge.",
+      "date": "8th - 14th centuries CE",
+      "images":["https://en.islami.co/wp-content/uploads/2019/11/964327_413844.jpg",
+      "https://ericgerlachdotcom.files.wordpress.com/2013/10/muslims-praying-painting.jpg",
+    "https://thefridaytimes.com/digital_images/large/2020-10-09/library-culture-in-the-islamic-golden-age-1687410299-1312.jpg",
+  "https://static.wixstatic.com/media/73361b_152fcb1ff054488c9a4d9ca2f3209edd~mv2.png/v1/fit/w_320%2Ch_892%2Cal_c,enc_auto/file.png"]
+    }
+  ]
+}
